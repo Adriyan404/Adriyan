@@ -52,7 +52,7 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;92m SEND THIS KEY TO ADMIN >> %s%s"%(G,bashbash))
-	runtxt("\033[0;92m ADMIN FACEBOOK >> MD REJAUL KARIM")
+	runtxt("\033[0;92m ADMIN FACEBOOK >> ADRIYAN KING")
 	subprocess.check_output('am start https://wa.me/+8801706870024?text=' + tks)
 	
 
