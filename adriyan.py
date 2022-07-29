@@ -101,16 +101,16 @@ class Main:
 
 
 \033[1;92m╔═════════════════════════════════════════╗ 
-\033[1;92m║ [âˆš] \033[1;92mDEVOLPER    :    KING. ADRIYAN  ║
-\033[1;92m║ [âˆš] \033[1;92mFACEBOOK    :    KING.ADRIYAN   ║
-\033[1;92m║ [âˆš] \033[1;92mGITHUB      :    Adriyan404     ║
-\033[1;92m║ [âˆš] \033[1;92mTOOLS       :    RANDOM  CLONER ║
+\033[1;92m║ [âˆš] \033[1;92mDEVOLPER    :    KING. ADRIYAN   ║
+\033[1;92m║ [âˆš] \033[1;92mFACEBOOK    :    KING.ADRIYAN    ║
+\033[1;92m║ [âˆš] \033[1;92mGITHUB      :    Adriyan404      ║
+\033[1;92m║ [âˆš] \033[1;92mTOOLS       :    RANDOM  CLONER  ║
 \033[1;92m╚═════════════════════════════════════════╝   """)
 		print("%s [%s💗%s] %sTOOL NAME : %sRANDOM CLONER"%(G,R,G,G,G))
 		print("%s [%s💗%s] %sVERSION   : %s3.0.2"%(G,R,G,G,G))
 		print("%s [%s💗%s] %sYOUR STATUS  : %s%s"%(G,R,G,G,G,stat))
 		print("\n\x1b[1;92m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ")
-		print("%s [%s1%s]%s RANDOM CRACK 2009-2010 %s(PRO) V1"%(R,C,R,G,G))
+		print("%s [%s1%s]%s RANDOM CRACK 2009-2010 70% Just New s(PRO) V1"%(R,C,R,G,G))
 		print(GET)
 		hoga = input("\n%s [?] CHOICE : "%(G))
 		if hoga in ["", " "]:
